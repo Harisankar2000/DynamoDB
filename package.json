@@ -1,0 +1,18 @@
+{
+  "name": "csv-with-mongo",
+  "version": "1.0.0",
+  "description": "import csv to mongodb database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harisankar",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csvtojson": "^2.0.10",
+    "express": "^4.18.1",
+    "fast-csv": "^4.3.6",
+    "mongodb": "^4.7.0"
+  }
+}
